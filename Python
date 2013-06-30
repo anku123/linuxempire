@@ -1,14 +1,14 @@
-Here is the Python tutorial....
+##Here is the Python tutorial....
 maybe you are wondering that what is Python language and who wrote it.... 
 This tutorial will teach you basics of Python, its syntax, codes and everything....
 
-Python was developed by Guido van Rossum in the early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
+Python was developed by Guido van Rossum in the early nineties at the *National Research Institute for Mathematics and Computer Science in the Netherlands*.
 
 Python is available under GPL (Gnu General Public Licence).
 
-Want to download Python and install it in windows operating system?
+*Want to download Python and install it in windows operating system?*
 Here is a small tutorial about downloading and installing python in windows. 
-1. Download suitable version of Python from this website: http://www.python.org/download/releases/
+1. Download suitable version of Python from [this](http://www.python.org/download/releases/) website: 
 2. .msi file will be downloaded. Just double click on it, install it in a normal way.
 3.  set the environment variable: Open command, type this command
 path %path%;C:\Python
@@ -75,8 +75,8 @@ example:
 
 Simple and interesting, right? :)
 
-You can download full tutorial about Python from this link:
-http://www.tutorialspoint.com/python/python_tutorial.pdf
+You can download full tutorial about Python from [this] (http://www.tutorialspoint.com/python/python_tutorial.pdf) link:
+
 
 For further information you can reach me at anku.manasa[at]dotgoogle's email service. 
 
