@@ -1,0 +1,82 @@
+Here is the Python tutorial....
+maybe you are wondering that what is Python language and who wrote it.... 
+This tutorial will teach you basics of Python, its syntax, codes and everything....
+
+Python was developed by Guido van Rossum in the early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
+
+Python is available under GPL (Gnu General Public Licence). 
+
+Want to download Python and install it in windows operating system?
+Here is a small tutorial about downloading and installing python in windows. 
+1. Download suitable version of Python from this website: http://www.python.org/download/releases/
+2. .msi file will be downloaded. Just double click on it, install it in a normal way.
+3.  set the environment variable: Open command, type this command
+path %path%;C:\Python
+4. And you are set. Open Idle(GUI editor for python). start coding :)
+
+What is Python? 
+Python is a general purpose interpreted, interactive, object-oriented and high-level programming language.Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code
+
+Types of comments: 
+They are:
+Single line comments: Used with a hash tag (#).
+Multiple line comments: Used with double quotation mark (").
+
+We will be using these comments in the following Python snippets. 
+
+Hello world snippet: 
+This hello world program is a basic program in most of the computer languages. Writing that 'hello world' program in Python is very simple. Here is the snippet.
+#Hello_world snippet
+print "hello, world"; 
+
+Open Python command line, Type print "hello, world"; Press enter and voila! Hello world program in python is compiled and you'll get the output as hello, world. Simple, isn't it?
+
+Script programming: Open any text editor like gedit, emacs, vim (in case of Gnu/linux operating systems) and note pad (in case of windows operating system). Type print "hello, world"; Save the file as hello.py. Open python command line, create path variable to the directory where that file is stored, run this command 
+>>>python hell.py
+And the output will be hello, world. 
+
+Simple, right? 
+
+And there are arithmetic operators which can be used in an easy way. For example: 
+In python command line,
+>>> 3 + 5 # gives 8. There is no need to type printf, scanf, c=a+b; statements. It is same case for subtraction, multiplication, division of numbers. It is much easier than C/C++/Java.
+
+Strings can be created by using " or ' or " " "
+Example:
+word = 'word' 
+sentence = "This is a sentence." 
+paragraph = " " "This is a paragraph. It is made up of multiple lines and sentences." " "
+
+Using reserved words in Python: 
+Some of the reserved words are And, Exec, Not, Assert, Finally, Or, Break, For, Pass, Class, From etc. 
+All the Python keywords contain lowercase letters only.
+
+We use if, elif, else for control flow:
+Example:
+if x/2 = 0
+print "x is a even number"
+elif 
+print "x is a odd number"
+else
+print "x is neither even number nor odd number";
+
+Python code is human readable code, i.e., humans can read the code and understand it very easily. 
+
+Using loops in Python:
+Loop statements are: for, do, while.
+example:
+1. for town in ["California", "Toronto", "New Delhi"]:
+          print "%s is a town" % town
+
+2. while x = 10
+         print x;
+         x++;
+
+
+Simple and interesting, right? :)
+
+You can download full tutorial about Python from this link:
+http://www.tutorialspoint.com/python/python_tutorial.pdf
+
+For further information you can reach me at anku.manasa[at]dotgoogle's email service. 
+
