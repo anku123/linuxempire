@@ -14,17 +14,17 @@ Here is a small tutorial about downloading and installing python in windows.
 path %path%;C:\Python
 4. And you are set. Open Idle(GUI editor for python). start coding :)
 
-What is Python? 
+###What is Python? 
 Python is a general purpose interpreted, interactive, object-oriented and high-level programming language.Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code
 
 Types of comments: 
 They are:
-Single line comments: Used with a hash tag (#).
-Multiple line comments: Used with double quotation mark (").
+1. Single line comments: Used with a hash tag (#).
+2. Multiple line comments: Used with double quotation mark (").
 
 We will be using these comments in the following Python snippets. 
 
-Hello world snippet: 
+##Hello world snippet: 
 This hello world program is a basic program in most of the computer languages. Writing that 'hello world' program in Python is very simple. Here is the snippet.
 #Hello_world snippet
 print "hello, world"; 
